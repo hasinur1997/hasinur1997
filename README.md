@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hasinur1997/hasinur1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am [https://linkedin.com/in/hasinur1997]Hasinur Rahman, A software engineer. I love and work with PHP, WordPress, Laravel, Vue, React, Node, and bash.
@@ -13,4 +13,3 @@ I am [https://linkedin.com/in/hasinur1997]Hasinur Rahman, A software engineer. I
 - 📫 How to reach me: hasinurrahman3@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
