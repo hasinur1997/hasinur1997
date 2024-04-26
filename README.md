@@ -12,4 +12,4 @@ I love to read books and listen to podcasts.
 - 😄 Pronouns: He, Fat & Happy 😄
 - ⚡ Fun fact: I love to cook and travel.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinur1997)](https://github.com/hasinur1997/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinur1997&show_icons=true&theme=radical)
