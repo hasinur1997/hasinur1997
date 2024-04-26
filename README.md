@@ -14,6 +14,6 @@ I love to read books and listen to podcasts.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinur1997&amp;theme=gruvbox&amp;show_icons=true&amp;hide_border=true&amp;count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinur1997&amp;theme=gruvbox&amp;hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinur1997&amp;theme=gruvbox&amp;hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinur1997&amp;theme=gruvbox&amp;show_icons=true&amp;hide_border=true&amp;layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinur1997&amp;theme=gruvbox&amp;show_icons=true&amp;hide_border=true)
